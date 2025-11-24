@@ -2,7 +2,7 @@
 
 ## 🎯 Contexto – Global Solution 2025/2
 
-Este projeto foi desenvolvido como parte da **Global Solution 2025/2** do 2º ano de Análise e Desenvolvimento de Sistemas (Turmas de Agosto – FIAP), cujo tema é **“O Futuro do Trabalho”**.  
+Este projeto foi desenvolvido como parte da **Global Solution 2025** do 2º ano de Análise e Desenvolvimento de Sistemas (Turmas de Agosto – FIAP), cujo tema é **“O Futuro do Trabalho”**.  
 
 O desafio proposto é criar uma solução que utilize **tecnologia e inovação** para:
 
@@ -48,8 +48,6 @@ A solução se alinha diretamente aos Objetivos de Desenvolvimento Sustentável:
 
 - Victor Rodrigues De Lima Lourenco – RM560087 
 - Renato Silva Alexandre Bezerra – RM560928
-
-> Atualize com os nomes e RMs reais do grupo.
 
 ---
 
