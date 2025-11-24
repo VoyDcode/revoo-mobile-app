@@ -46,9 +46,8 @@ A solução se alinha diretamente aos Objetivos de Desenvolvimento Sustentável:
 
 ## 👥 Equipe
 
-- Nome 1 – RMXXXXX – Turma
-- Nome 2 – RMXXXXX – Turma
-- Nome 3 – RMXXXXX – Turma
+- Victor Rodrigues De Lima Lourenco – RM560087 
+- Renato Silva Alexandre Bezerra – RM560928
 
 > Atualize com os nomes e RMs reais do grupo.
 
