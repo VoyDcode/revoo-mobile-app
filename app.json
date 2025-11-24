@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Revoo Mobile",
+    "slug": "revoo-mobile",
+    "version": "1.0.0",
+    "scheme": "revoo",
+    "platforms": ["ios", "android"],
+    "orientation": "portrait",
+    "jsEngine": "hermes",
+    "sdkVersion": "54.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "extra": {
+      "eas": {
+        "projectId": "00000000-0000-0000-0000-000000000000"
+      }
+    }
+  }
+}
